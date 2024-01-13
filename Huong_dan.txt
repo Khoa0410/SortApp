@@ -1,0 +1,18 @@
+1.Nhập danh sách các mảng cần sắp xếp vào file ".inp" theo trình tự:
+- Số phần tử của mảng 1
+- Mảng 1
+- số phần tử của mảng 2
+- Mảng 2
+...
+2.Các mảng sau khi được sắp xếp được xuất ra file ".out" theo đúng thứ tự được nhập vào
+3.Thời gian sắp xếp được in ra trên màn hình console
+4.Chạy ứng dụng trên cmd théo cú pháp: Project1_file a <.inp
+- Với a là thuật toán muốn sắp xếp:
+    1.Selection Sort
+    2.Insertion Sort
+    3.Bubble Sort
+    4.Merge Sort
+    5.Quick Sort
+    6.Heap Sort
+- Cần điều hướng cmd đến folder chứa file code ( file code, file .inp, file .out, file Huong_dan.txt cần nằm trong cùng 1 folder)
+5.Xem hướng dẫn sử dụng: Project1_file h
